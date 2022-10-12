@@ -27,7 +27,5 @@ public class ManavHesap {
         tutar = a*armut+e*elma+d*domates+m*muz+p*patlıcan;
         System.out.println(tutar);
 
-
-
     }
 }
